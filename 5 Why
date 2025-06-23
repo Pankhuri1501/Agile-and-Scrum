@@ -1,0 +1,61 @@
+The 5 Whys Method (Root Cause Analysis)
+The 5 Whys is a simple yet powerful problem-solving technique used to identify the root cause of a problem by repeatedly asking “Why?” at least five times. By peeling away the
+layers of symptoms, this method reveals the underlying cause of an issue, enabling teams to address it effectively. It is a fundamental tool in Lean and Six Sigma methodologies.
+
+Detailed Breakdown of the 5 Whys Method
+1. Define the Problem
+○ Objective: Start with a clear and concise statement of the issue at hand.
+○ Problem Statement: Ensure that the problem is specific, measurable, and understood by everyone involved.
+Example: “A customer’s order was delivered late.”
+
+2. Ask the First Why
+○ Objective: Identify the immediate reason the problem occurred.
+○ Technique: Ask, “Why did this happen?”
+Example: “Why was the order late?”
+Answer: “The delivery truck left the warehouse late.”
+
+3. Ask the Second Why
+○ Objective: Dig deeper into the cause of the first answer.
+○ Technique: Repeat the question, focusing on the reason behind the previous
+Example: “Why did the truck leave the warehouse late?”
+Answer: “The order was not prepared on time.”
+
+4. Ask the Third Why
+○ Objective: Probe further into the cause of the second answer.
+○ Technique: Identify contributing factors that led to the delay.
+Example: “Why was the order not prepared on time?”
+Answer: “There was a shortage of staff in the warehouse.”
+
+5. Ask the Fourth Why
+○ Objective: Uncover deeper systemic or process-related issues.
+○ Technique: Look for organizational or procedural factors.
+Example: “Why was there a shortage of staff?”
+Answer: “Several employees called in sick, and there was no contingency plan.”
+
+6. Ask the Fifth Why
+○ Objective: Get to the root cause that allows for meaningful corrective action.
+○ Technique: Identify the foundational issue.
+Example: “Why was there no contingency plan?”
+Answer: “The warehouse does not have a staff backup policy.”
+
+Analyze and Address the Root Cause
+● Objective: Use the findings to develop actionable solutions.
+● Key Considerations:
+○ Ensure the identified root cause is actionable and within the team’s control.
+○ Validate findings with data or evidence where possible.
+
+Implement and Monitor Solutions
+● Action Plan: Develop strategies to address the root cause.
+Example: Create and implement a staff backup policy to ensure adequate coverage.
+● Execution: Monitor the effectiveness of the solutions and ensure they prevent the recurrence of the issue.
+
+Benefits of the 5 Whys
+● Simplicity: Requires no special tools or techniques, making it easy for teams to adopt.
+● Focus: Helps avoid jumping to conclusions or treating symptoms instead of causes.
+● Efficiency: Quickly narrows down to actionable solutions.
+
+
+
+The 5 Whys Method promotes a culture of inquiry, fosters collaboration, and leads to
+
+sustainable solutions by addressing problems at their core.
